@@ -14,6 +14,7 @@ Technologies Used
 
 - Ant Design
 
+- Boostrap and AOS animation
 
 
 The web pages show all available cars to be rented. 
